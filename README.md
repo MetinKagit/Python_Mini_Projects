@@ -1,4 +1,4 @@
-# Python_Mini_Projects
+# Python Mini Projects
 This repository contains mini Python projects.
 
 
